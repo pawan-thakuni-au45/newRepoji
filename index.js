@@ -1,0 +1,1 @@
+console.log('this is my first project on window and i want to change my life this year and i want to became a millonare in 2024');
